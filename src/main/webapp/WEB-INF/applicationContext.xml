@@ -4,12 +4,12 @@
 	xmlns:context="https://www.springframework.org/schema/context"
 	xsi:schemaLocation="https://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd
-        https://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context-3.0.xsd">
+        https://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
 
 	<!-- :::::: CREANDO BEAN DE DISQUERA DAO -->
 
 	<context:annotation-config></context:annotation-config>
-	<context:component-scan base-package="com.devpredator"></context:component-scan>
+	<context:component-scan base-package="com.rbsoft"></context:component-scan>
 
 
 	
