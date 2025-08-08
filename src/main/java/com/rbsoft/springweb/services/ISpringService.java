@@ -9,4 +9,5 @@ package com.rbsoft.springweb.services;
  */
 public interface ISpringService {
 
+	 String getInfoServices();
 }

@@ -9,7 +9,7 @@
 	<!-- :::::: CREANDO BEAN DE DISQUERA DAO -->
 
 	<context:annotation-config></context:annotation-config>
-	<context:component-scan base-package="com.rbsoft"></context:component-scan>
+	<context:component-scan base-package="com.rbsoft"></context:component-scan> <!--etiqueta para poder determinar cuales paquetes van a poder ser scaneado por spring para usar en el proyecto -->
 
 
 	
