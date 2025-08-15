@@ -8,6 +8,8 @@ import javax.annotation.PostConstruct;
 import javax.faces.bean.ManagedProperty;
 import javax.faces.bean.ViewScoped;
 
+import org.springframework.context.annotation.Bean;
+
 import com.rbsoft.springweb.services.impl.SpringServiceImpl;
 
 
